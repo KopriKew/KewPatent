@@ -2,6 +2,40 @@
 
 **KewPatent** — [Ko‘priKew Organization](https://github.com/KopriKew/) doirasida yaratilgan, Rossiyaga ishlangani kelayotgan o‘zbekistonlik migrantlar uchun raqamli va interaktiv yo‘l xaritasidir. Loyiha vatandoshlarimizga Rossiyada qonuniy mehnat faoliyatini boshlash uchun patent olish bosqichlarini, joriy xarajatlarni hamda rasmiy idoralardagi ruscha muloqot tizimini oson va sodda tushuntirishga qaratilgan.
 
+
+> Ushbu loyiha rasmiy davlat xizmati emas. Ma’lumotlar faqat yo‘naltiruvchi maqsadda beriladi. Rasmiy qarorlar va to‘lovlar uchun tegishli davlat organlarining rasmiy manbalariga murojaat qiling.
+
+---
+
+## 📌 Loyiha haqida
+
+**KewPatent** — Rossiyada mehnat faoliyatini yuritish uchun patent olish jarayonini sodda, tushunarli va bosqichma-bosqich ko‘rsatuvchi raqamli yo‘l xaritasi.
+
+Loyiha quyidagi savollarga javob berishga yordam beradi:
+
+- Patent olish uchun qayerdan boshlash kerak?
+- Qanday hujjatlar kerak?
+- Qaysi tartibda va qancha muddatda harakat qilish kerak?
+- Patent narxi mintaqa bo‘yicha qanday farq qiladi?
+- Tibbiy ko‘rik, rus tili imtihoni va ro‘yxatdan o‘tish qanday amalga oshiriladi?
+- To‘lovlar qanday amalga oshiriladi va to‘lov to‘xtasa nima bo‘ladi?
+
+---
+
+## 🎯 Muammo va yechim
+
+### Muammo
+Chet elda patent olish jarayoni ko‘p bosqichli, hujjatlar talablari tez-tez o‘zgaradi, mintaqaviy narxlar farq qiladi va ko‘plab migrantlar uchun rus tilidagi rasmiy ma’lumotlarni tushunish qiyin.
+
+### Yechim
+**KewPatent** — bu:
+
+- interaktiv yo‘l xaritasi;
+- qadam-baqadam checklist;
+- mintaqa bo‘yicha patent narxi kalkulyatori;
+- kerakli hujjatlar va manbalar ro‘yxati;
+- o‘zbek va rus tillaridagi tushunarli qo‘llanma.
+
 ---
 
 ## 🗺️ 1. Patent Olish Yo‘l Xaritasi (Roadmap)
