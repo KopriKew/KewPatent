@@ -110,4 +110,4 @@ Ushbu loyiha **Open-Source** (ochiq kodli) hisoblanadi. Agar sizda Rossiyadagi p
 ---
 
 ## 🌐 Ko‘priKew Haqida
-**Ko‘priKew** — musofirlikda yurgan vatandoshlarimiz hayotini raqamli texnologiyalar orqali osonlashtirishni maqsad qilgan ko‘ngilli dasturchilar. 
+**Ko‘priKew** — musofirlikda yurgan vatandoshlarimiz hayotini raqamli texnologiyalar orqali osonlashtirishni maqsad qilgan lohiya.
